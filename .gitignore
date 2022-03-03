@@ -3,6 +3,7 @@
 /node_modules
 
 .env
+.env.test
 important_commands.txt
 
 # Logs
